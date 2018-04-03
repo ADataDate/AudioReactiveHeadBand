@@ -1,7 +1,10 @@
 /*Mary West
- * Desert Bloom Electronics
+ * Desert Bloom
  * This arduino sketch is for the Audio Reactive Kitty Ears Headband
  * I made for an instructables tutorial that I never finished. 
+ * I found an instructable written by Anouk Wipprecht:
+ * http://www.instructables.com/id/ElectronicKittyEars-Headset-DIY/
+ * Which inspired me to take my headband in a new direction. 
  * This code is as-is, no warranty, beerware. 
  * Hardware: 
  * MSGEQ7 - 7 Band Audio Equalizer Display Filter

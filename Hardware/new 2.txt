@@ -1,0 +1,45 @@
+Partlist exported from C:/Users/mary.west/Documents/github/AudioReactiveHeadBand/Hardware/KittyEarsV2.sch at 3/15/2018 2:40 PM
+
+Part   Value                      Device                           Package                  Description          PROD_ID    SF_SKU    VALUE  
+C1     0.1uF                      CAP0603-CAP                      0603-CAP                 Capacitor                                        
+C2     0.1uF                      CAP0603-CAP                      0603-CAP                 Capacitor                                        
+C3     0.1uF                      CAP0603-CAP                      0603-CAP                 Capacitor                                        
+C10    0.1uF                      CAP0603-CAP                      0603-CAP                 Capacitor                                        
+C13    10uF                       CAP_POL1206                      EIA3216                  Capacitor Polarized                              
+C19    10uF                       CAP_POL1206                      EIA3216                  Capacitor Polarized                              
+D1     WS2812B                    WS2812B                          WS2812B                  WS2812B SMD addressa DIO-12503            WS2812B
+D2     WS2812B                    WS2812B                          WS2812B                  WS2812B SMD addressa DIO-12503            WS2812B
+D3     WS2812B                    WS2812B                          WS2812B                  WS2812B SMD addressa DIO-12503            WS2812B
+D4     WS2812B                    WS2812B                          WS2812B                  WS2812B SMD addressa DIO-12503            WS2812B
+D5     WS2812B                    WS2812B                          WS2812B                  WS2812B SMD addressa DIO-12503            WS2812B
+D6     WS2812B                    WS2812B                          WS2812B                  WS2812B SMD addressa DIO-12503            WS2812B
+D7     WS2812B                    WS2812B                          WS2812B                  WS2812B SMD addressa DIO-12503            WS2812B
+                            
+JP1    FTDI Basic                 CONN_06SMD-STRAIGHT-COMBO-FEMALE 1X06_SMD_STRAIGHT_COMBO  Multi connection poi CONN-10203                  
+Q1     8/16/20MHz                 RESONATOR1:1                     RESONATOR-SMD-1:1        Resonator                                        
+R2     10K                        RESISTOR0603-RES                 0603-RES                 Resistor                                         
+S1     Reset                      SWITCH-MOMENTARY-2SMD-ALT01      TACTILE-SWITCH-SMD-ALT01 Various NO switches-                             
+S2                                SWITCH-SPDT-SMD-RIGHT-ANGLE      SWITCH_SPST_SMD_A        Single Pole, Double  SWCH-10651 COM-10860        
+U1     ATMEGA328                  ATMEGA168                        TQFP32-08                                                                 
+U2     MIC5205                    V_REG_LDOSMD                     SOT23-5                  Voltage Regulator LD                                  
+C1     0.1uF         0.1UF-0603-25V-(+80/-20%) 0603             0.1µF ceramic capaci CAP-00810 0.1uF        
+C2     0.1uF         0.1UF-0603-25V-(+80/-20%) 0603             0.1µF ceramic capaci CAP-00810 0.1uF        
+C3     0.1uF         0.1UF-0603-25V-(+80/-20%) 0603             0.1µF ceramic capaci CAP-00810 0.1uF        
+C4     0.1uF         0.1UF-0603-25V-(+80/-20%) 0603             0.1µF ceramic capaci CAP-00810 0.1uF        
+C5     0.1uF         0.1UF-0603-25V-(+80/-20%) 0603             0.1µF ceramic capaci CAP-00810 0.1uF        
+C6     0.1uF         0.1UF-0603-25V-(+80/-20%) 0603             0.1µF ceramic capaci CAP-00810 0.1uF        
+C7     0.1uF         0.1UF-0603-25V-(+80/-20%) 0603             0.1µF ceramic capaci CAP-00810 0.1uF        
+C8     0.1uF         0.1UF-0603-25V-(+80/-20%) 0603             0.1µF ceramic capaci CAP-00810 0.1uF        
+C9     0.1uF         0.1UF-0603-25V-(+80/-20%) 0603             0.1µF ceramic capaci CAP-00810 0.1uF        
+C10    33pF          33PF-0603-50V-5%          0603             33pF ceramic capacit CAP-10142 33pF         
+C11    10nF          10NF-0603-50V-10%         0603             0.01uF/10nF/10,000pF CAP-00867 10nF         
+D1     WS2812B       WS2812B                   WS2812B          WS2812B SMD addressa DIO-12503 WS2812B      
+D2     WS2812B       WS2812B                   WS2812B          WS2812B SMD addressa DIO-12503 WS2812B      
+D3     WS2812B       WS2812B                   WS2812B          WS2812B SMD addressa DIO-12503 WS2812B      
+D4     WS2812B       WS2812B                   WS2812B          WS2812B SMD addressa DIO-12503 WS2812B      
+D5     WS2812B       WS2812B                   WS2812B          WS2812B SMD addressa DIO-12503 WS2812B      
+D6     WS2812B       WS2812B                   WS2812B          WS2812B SMD addressa DIO-12503 WS2812B      
+D7     WS2812B       WS2812B                   WS2812B          WS2812B SMD addressa DIO-12503 WS2812B                          
+IC1    MSGEQ7N       MSGEQ7SOIC                SO08             7-band graphic equal IC-10141  MSGEQ7N      
+R1     200k          200KOHM-0603-1/10W-1%     0603             200kΩ resistor       RES-09385 200k         
+R2     22k           22KOHM-0603-1/10W-1%      0603             22kΩ resistor        RES-07853 22k          

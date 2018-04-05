@@ -1,3 +1,3 @@
 # AudioReactiveHeadBand
 
-This project sux
+An audio reactive accessory. 
